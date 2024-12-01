@@ -72,7 +72,7 @@ gym-website/
 │   ├── about.html      # About page  
 │   ├── membership.html # Membership page  
 │   ├── signup.html     # Signup page  
-├── static/             # Static files (CSS, JS, images)  
+├── static/             # Static files (CSS, images)  
 │   ├── css/            # Stylesheets  
 │   └── images/         # Images for the website   
 ├── README.md           # Project documentation 
