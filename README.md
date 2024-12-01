@@ -43,13 +43,13 @@ cd gym-website
 2. Set Up a Virtual Environment
 Create and activate a virtual environment to isolate project dependencies:
 
-For Linux/Mac:
-python3 -m venv venv  
-source venv/bin/activate  
+ For Linux/Mac:
+ python3 -m venv venv  
+ source venv/bin/activate  
 
-For Windows:
-python -m venv venv  
-venv\Scripts\activate 
+ For Windows:
+ python -m venv venv  
+ venv\Scripts\activate 
  
 3. Run the Flask Application
 Start the development server by running:
