@@ -1,5 +1,3 @@
-﻿# Gym-Website
-
  # Gym Website  
 
 A sleek and user-friendly gym website built with Flask, providing essential information about the gym, membership options, and a simple signup form.  
